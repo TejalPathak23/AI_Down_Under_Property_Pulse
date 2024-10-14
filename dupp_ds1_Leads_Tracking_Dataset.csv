@@ -1,0 +1,101 @@
+Lead ID,Lead Source,Lead Status,Date of Lead,Lead Owner,Region,Site Location
+1001,Web Portal,New,2023-01-01,John Doe,East,Melbourne CBD
+1002,Event,Contacted,2023-01-05,Jane Smith,South,Sydney Opera House
+1003,Referral,Qualified,2023-01-10,Bob Johnson,West,Perth Waterfront
+1004,Walk-in,Lost,2023-01-15,Alice Brown,North,Brisbane Riverwalk
+1005,Web Portal,New,2023-01-20,Mike Davis,East,Adelaide CBD
+1006,Event,Contacted,2023-01-25,Emily Taylor,South,Gold Coast Beach
+1007,Referral,Qualified,2023-01-30,David Lee,West,Canberra Parliament House
+1008,Walk-in,Lost,2023-02-01,Sophia Patel,North,Darwin Waterfront
+1009,Web Portal,New,2023-02-05,Kevin White,East,Hobart CBD
+1010,Event,Contacted,2023-02-10,Olivia Martin,South,Melbourne Cricket Ground
+1011,Referral,Qualified,2023-02-15,Alexander Brown,West,Perth Stadium
+1012,Walk-in,Lost,2023-02-20,Hannah Kim,North,Brisbane Convention Centre
+1013,Web Portal,New,2023-02-25,Isabella Hall,East,Sydney Harbour Bridge
+1014,Event,Contacted,2023-03-01,Mia Garcia,South,Adelaide Oval
+1015,Referral,Qualified,2023-03-05,Ethan Lee,West,Canberra Lake Burley Griffin
+1016,Walk-in,Lost,2023-03-10,Ava Chen,North,Darwin Botanic Gardens
+1017,Web Portal,New,2023-03-15,Liam Hall,East,Hobart Waterfront
+1018,Event,Contacted,2023-03-20,Sophia Brooks,South,Melbourne Royal Botanic Gardens
+1019,Referral,Qualified,2023-03-25,Elijah Martin,West,Perth Kings Park and Botanic Garden
+1020,Walk-in,Lost,2023-03-30,Emily Patel,North,Brisbane Riverwalk
+1021,Web Portal,New,2023-04-01,Oliver White,East,Sydney CBD
+1022,Event,Contacted,2023-04-05,Hannah Taylor,South,Adelaide River Torrens
+1023,Referral,Qualified,2023-04-10,Alexander Hall,West,Canberra National Museum
+1024,Walk-in,Lost,2023-04-15,Ava Brown,North,Darwin Nightcliff Beach
+1025,Web Portal,New,2023-04-20,Liam Lee,East,Hobart Salamanca Market
+1026,Event,Contacted,2023-04-25,Sophia Martin,South,Melbourne Federation Square
+1027,Referral,Qualified,2023-04-30,Elijah Taylor,West,Perth Optus Stadium
+1028,Walk-in,Lost,2023-05-01,Emily Hall,North,Brisbane South Bank Parklands
+1029,Web Portal,New,2023-05-05,Oliver Brown,East,Sydney Royal Botanic Garden
+1030,Event,Contacted,2023-05-10,Hannah White,South,Adelaide Adelaide Oval
+1031,Referral,Qualified,2023-05-15,Alexander Lee,West,Canberra Parliament House
+1032,Walk-in,Lost,2023-05-20,Ava Taylor,North,Darwin Mindil Beach Sunset Market
+1033,Web Portal,New,2023-05-25,Liam Martin,East,Hobart Constitution Dock
+1028,Web Portal,Contacted,2023-05-30,Charlotte Kim,South,Melbourne St Kilda Beach
+1029,Event,Qualified,2023-06-01,Ethan Patel,West,Perth Elizabeth Quay
+1030,Referral,Lost,2023-06-05,Ava Hall,North,Brisbane Lone Pine Koala Sanctuary
+1031,Walk-in,New,2023-06-10,Oliver Brooks,East,Sydney Royal Sydney Showground
+1032,Web Portal,Contacted,2023-06-15,Sophia White,South,Adelaide Glenelg Beach
+1033,Event,Qualified,2023-06-20,Elijah Martin,West,Canberra National Arboretum
+1034,Referral,Lost,2023-06-25,Emily Taylor,North,Darwin Crocodylus Park
+1035,Walk-in,New,2023-06-30,Alexander Lee,East,Hobart Salamanca Market
+1036,Web Portal,Contacted,2023-07-01,Charlotte Brown,South,Melbourne Docklands
+1037,Event,Qualified,2023-07-05,Ethan Hall,West,Perth Kings Park and Botanic Garden
+1038,Referral,Lost,2023-07-10,Ava Patel,North,Brisbane Riverwalk
+1039,Walk-in,New,2023-07-15,Oliver Martin,East,Sydney Sydney Opera House
+1040,Web Portal,Contacted,2023-07-20,Sophia Lee,South,Adelaide Adelaide Central Market
+1041,Event,Qualified,2023-07-25,Elijah White,West,Canberra Lake Burley Griffin
+1042,Referral,Lost,2023-07-30,Emily Hall,North,Darwin Nightcliff Beach
+1043,Walk-in,New,2023-08-01,Alexander Brooks,East,Hobart Waterfront
+1044,Web Portal,Contacted,2023-08-05,Charlotte Taylor,South,Melbourne Federation Square
+1045,Event,Qualified,2023-08-10,Ethan Patel,West,Perth Optus Stadium
+1046,Referral,Lost,2023-08-15,Ava Martin,North,Brisbane South Bank Parklands
+1047,Walk-in,New,2023-08-20,Oliver Lee,East,Sydney Royal Botanic Garden
+1048,Web Portal,Contacted,2023-08-25,Sophia White,South,Adelaide River Torrens
+1049,Event,Qualified,2023-08-30,Elijah Hall,West,Canberra National Museum
+1050,Referral,Lost,2023-09-01,Emily Brooks,North,Darwin Botanic Gardens
+1051,Walk-in,New,2023-09-05,Alexander Taylor,East,Hobart Constitution Dock
+1052,Web Portal,Contacted,2023-09-10,Charlotte Martin,South,Melbourne Royal Botanic Gardens
+1053,Event,Qualified,2023-09-15,Ethan White,West,Perth Kings Park and Botanic Garden
+1054,Referral,Lost,2023-09-20,Ava Lee,North,Brisbane Lone Pine Koala Sanctuary
+1055,Walk-in,New,2023-09-25,Oliver Patel,East,Sydney Royal Sydney Showground
+1056,Web Portal,Contacted,2023-09-30,Sophia Taylor,South,Adelaide Glenelg Beach
+1057,Event,Qualified,2023-10-01,Elijah Brooks,West,Canberra National Arboretum
+1058,Referral,Lost,2023-10-05,Emily Hall,North,Darwin Crocodylus Park
+1059,Walk-in,New,2023-10-10,Alexander White,East,Hobart Salamanca Market
+1060,Web Portal,Contacted,2023-10-15,Charlotte Lee,South,Melbourne Docklands
+1061,Event,Qualified,2023-10-20,Ethan Martin,West,Perth Elizabeth Quay
+1062,Referral,Lost,2023-10-25,Ava Brown,North,Brisbane Riverwalk
+1063,Walk-in,New,2023-10-30,Oliver Taylor,East,Sydney Sydney Opera House
+1064,Web Portal,Contacted,2023-11-01,Sophia Patel,South,Adelaide Adelaide Central Market
+1065,Event,Qualified,2023-11-05,Elijah White,West,Canberra Lake Burley Griffin
+1066,Referral,Lost,2023-11-10,Emily Brooks,North,Darwin Nightcliff Beach
+1067,Walk-in,New,2023-11-15,Alexander Brown,East,Hobart Waterfront
+1068,Web Portal,Contacted,2023-11-20,Charlotte Hall,South,Melbourne Queen Victoria Market
+1069,Event,Qualified,2023-11-25,Ethan Lee,West,Perth Kings Park and Botanic Garden
+1070,Referral,Lost,2023-12-01,Ava Martin,North,Brisbane Lone Pine Koala Sanctuary
+1071,Walk-in,New,2023-12-05,Oliver Patel,East,Sydney Royal Sydney Showground
+1072,Web Portal,Contacted,2023-12-10,Sophia Brooks,South,Adelaide Glenelg Beach
+1073,Event,Qualified,2023-12-15,Elijah Hall,West,Canberra National Museum
+1074,Referral,Lost,2023-12-20,Emily White,North,Darwin Botanic Gardens
+1075,Walk-in,New,2023-12-25,Alexander Taylor,East,Hobart Constitution Dock
+1076,Web Portal,Contacted,2024-01-01,Charlotte Martin,South,Melbourne Royal Botanic Gardens
+1077,Event,Qualified,2024-01-05,Ethan Patel,West,Perth Kings Park and Botanic Garden
+1078,Referral,Lost,2024-01-10,Ava Lee,North,Brisbane Lone Pine Koala Sanctuary
+1079,Walk-in,New,2024-01-15,Oliver Brooks,East,Sydney Royal Sydney Showground
+1080,Web Portal,Contacted,2024-01-20,Sophia Taylor,South,Adelaide Glenelg Beach
+1081,Event,Qualified,2024-01-25,Elijah Brown,West,Canberra National Museum
+1082,Referral,Lost,2024-02-01,Emily Patel,North,Darwin Botanic Gardens
+1083,Walk-in,New,2024-02-05,Alexander Lee,East,Hobart Constitution Dock
+1084,Web Portal,Contacted,2024-02-10,Charlotte Brooks,South,Melbourne Royal Botanic Gardens
+1085,Event,Qualified,2024-02-15,Ethan Martin,West,Perth Kings Park and Botanic Garden
+1086,Referral,Lost,2024-02-20,Ava Taylor,North,Brisbane Lone Pine Koala Sanctuary
+1087,Walk-in,New,2024-02-25,Oliver Hall,East,Sydney Royal Sydney Showground
+1088,Web Portal,Contacted,2024-03-01,Sophia White,South,Adelaide Glenelg Beach
+1089,Event,Qualified,2024-03-05,Elijah Patel,West,Canberra National Museum
+1090,Referral,Lost,2024-03-10,Emily Martin,North,Darwin Botanic Gardens
+1091,Walk-in,New,2024-03-15,Alexander Brooks,East,Hobart Constitution Dock
+1092,Web Portal,Contacted,2024-03-20,Charlotte Taylor,South,Melbourne Royal Botanic Gardens
+1093,Event,Qualified,2024-03-25,Ethan White,West,Perth Kings Park and Botanic Garden
+1094,Referral,Lost,2024-04-01,Ava Hall,North,Brisbane Lone Pine Koala Sanctuary

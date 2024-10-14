@@ -1,0 +1,101 @@
+Salesperson ID,Salesperson Name,Region,Sales Volume,Property ID,Site Location,Revenue Generated,Lead Conversion Rate
+1001,Eleanor Patel,East,145.82,P001,Melbourne CBD,$85619.00,23.5%
+1002,Liam Chen,North,98.11,P002,Sydney North Shore,$63421.00,21.1%
+1003,Ava Tran,South,219.58,P003,Perth City,$143019.00,28.3%
+1004,Noah Kim,West,54.29,P004,Brisbane Valley,$34819.00,18.5%
+1005,Sophia Hall,East,187.45,P005,Adelaide CBD,$119819.00,25.8%
+1006,Mason Brown,North,123.99,P006,Gold Coast,$79419.00,22.9%
+1007,Isabella Martin,South,208.17,P007,Canberra City,$132619.00,26.1%
+1008,Julian White,West,91.05,P008,Darwin City,$57819.00,20.5%
+1009,Emily Lee,East,155.82,P009,Hobart CBD,$99219.00,24.2%
+1010,Alexander Hall,North,74.11,P010,Melbourne South East,$47019.00,19.8%
+1011,Charlotte Davis,South,201.58,P011,Perth North,$129619.00,27.5%
+1012,Benjamin Lee,West,119.29,P012,Brisbane North,$75819.00,23.1%
+1013,Abigail Martin,East,169.45,P013,Adelaide North,$107419.00,26.5%
+1014,Caleb Brown,North,93.99,P014,Gold Coast North,$59819.00,21.5%
+1015,Hannah White,South,182.17,P015,Canberra South,$115919.00,28.1%
+1016,Ethan Kim,West,105.05,P016,Darwin South,$66819.00,22.9%
+1017,Lily Tran,East,141.82,P017,Hobart South,$89919.00,24.5%
+1018,Oliver Hall,North,76.11,P018,Melbourne West,$48419.00,20.1%
+1019,Ava Davis,South,195.58,P019,Perth East,$124619.00,27.9%
+1020,William Martin,West,110.29,P020,Brisbane East,$69819.00,23.9%
+1021,Charlotte Lee,East,158.45,P021,Adelaide South,$100219.00,25.9%
+1022,Benjamin Hall,North,84.99,P022,Gold Coast South,$53819.00,21.1%
+1023,Emily White,South,172.17,P023,Canberra North,$108919.00,27.1%
+1024,Ethan Brown,West,98.05,P024,Darwin North,$62819.00,22.5%
+1025,Lily Kim,East,144.82,P025,Hobart North,$91919.00,24.9%
+1026,Oliver Tran,North,70.11,P026,Melbourne East,$44819.00,20.5%
+1027,Ava Hall,South,190.58,P027,Perth West,$120619.00,28.5%
+1028,William Davis,West,106.29,P028,Brisbane West,$67819.00,24.1%
+1029,Sophia Patel,East,163.45,P029,Adelaide East,$103419.00,27.0%
+1030,Julian Lee,North,91.99,P030,Gold Coast East,$59719.00,22.0%
+1031,Mia White,South,183.17,P031,Canberra East,$116219.00,29.0%
+1032,Alexander Kim,West,107.05,P032,Darwin East,$66919.00,23.0%
+1033,Zoe Tran,East,142.82,P033,Hobart East,$90219.00,25.0%
+1034,Harrison Hall,North,75.11,P034,Melbourne East,$48219.00,21.0%
+1035,Ruby Davis,South,196.58,P035,Perth East,$124819.00,29.0%
+1036,Lucas Martin,West,111.29,P036,Brisbane East,$69919.00,24.0%
+1037,Ava Patel,East,159.45,P037,Adelaide West,$100719.00,26.0%
+1038,Benjamin Brown,North,85.99,P038,Gold Coast West,$53919.00,22.0%
+1039,Charlotte White,South,173.17,P039,Canberra West,$109219.00,28.0%
+1040,Ethan Tran,West,99.05,P040,Darwin West,$62919.00,23.0%
+1041,Lily Kim,East,145.82,P041,Hobart West,$92119.00,25.0%
+1042,Oliver Lee,North,71.11,P042,Melbourne West,$44919.00,21.0%
+1043,Ava Hall,South,191.58,P043,Perth West,$121019.00,29.0%
+1044,William Davis,West,107.29,P044,Brisbane West,$67919.00,24.0%
+1045,Sophia Patel,East,164.45,P045,Adelaide North,$104019.00,27.0%
+1046,Julian Lee,North,92.99,P046,Gold Coast North,$59819.00,22.0%
+1047,Mia White,South,184.17,P047,Canberra North,$116819.00,29.0%
+1048,Alexander Kim,West,108.05,P048,Darwin North,$67019.00,23.0%
+1049,Zoe Tran,East,143.82,P049,Hobart North,$90319.00,25.0%
+1050,Harrison Hall,North,76.11,P050,Melbourne North,$48319.00,21.0%
+1051,Ruby Davis,South,197.58,P051,Perth North,$125019.00,29.0%
+1052,Lucas Martin,West,112.29,P052,Brisbane North,$70019.00,24.0%
+1053,Ava Patel,East,160.45,P053,Adelaide East,$101019.00,26.0%
+1054,Benjamin Brown,North,86.99,P054,Gold Coast East,$54019.00,22.0%
+1055,Charlotte White,South,174.17,P055,Canberra East,$110019.00,28.0%
+1056,Ethan Tran,West,100.05,P056,Darwin East,$63019.00,23.0%
+1057,Lily Kim,East,146.82,P057,Hobart East,$92219.00,25.0%
+1058,Oliver Lee,North,72.11,P058,Melbourne East,$45019.00,21.0%
+1059,Ava Hall,South,192.58,P059,Perth East,$122019.00,29.0%
+1060,William Davis,West,108.29,P060,Brisbane East,$68019.00,24.0%
+1061,Sophia Patel,East,165.45,P061,Adelaide West,$104519.00,27.0%
+1062,Julian Lee,North,93.99,P062,Gold Coast West,$59919.00,22.0%
+1063,Mia White,South,185.17,P063,Canberra West,$117019.00,29.0%
+1064,Emily Chen,West,110.05,P064,Darwin North,$67049.00,23.1%
+1065,Jackson Hall,East,147.82,P065,Hobart North,$90349.00,25.1%
+1066,Hannah Martin,North,77.11,P066,Melbourne North,$48349.00,21.1%
+1067,Gabriel Davis,South,198.58,P067,Perth North,$125049.00,29.1%
+1068,Ava Tran,West,113.29,P068,Brisbane North,$70049.00,24.1%
+1069,Charlotte Brown,East,161.45,P069,Adelaide East,$101049.00,26.1%
+1070,Benjamin Lee,North,87.99,P070,Gold Coast East,$54049.00,22.1%
+1071,Olivia White,South,175.17,P071,Canberra East,$110049.00,28.1%
+1072,Ethan Patel,West,101.05,P072,Darwin East,$63049.00,23.1%
+1073,Lily Kim,East,147.82,P073,Hobart East,$92249.00,25.1%
+1074,Isabella Hall,North,73.11,P074,Melbourne East,$45049.00,21.1%
+1075,Alexander Martin,South,193.58,P075,Perth East,$122049.00,29.1%
+1076,William Tran,West,109.29,P076,Brisbane East,$68049.00,24.1%
+1077,Sophia Brown,East,166.45,P077,Adelaide West,$104649.00,27.1%
+1078,Julian Lee,North,94.99,P078,Gold Coast West,$59949.00,22.1%
+1079,Mia Patel,South,186.17,P079,Canberra West,$117049.00,29.1%
+1080,Emily Davis,West,111.05,P080,Darwin North,$67109.00,23.2%
+1081,Jackson White,East,148.82,P081,Hobart North,$90409.00,25.2%
+1082,Hannah Kim,North,78.11,P082,Melbourne North,$48409.00,21.2%
+1083,Gabriel Tran,South,199.58,P083,Perth North,$125109.00,29.2%
+1084,Ava Lee,West,114.29,P084,Brisbane North,$70109.00,24.2%
+1085,Charlotte Martin,East,162.45,P085,Adelaide East,$101109.00,26.2%
+1086,Benjamin Brown,North,88.99,P086,Gold Coast East,$54109.00,22.2%
+1087,Olivia Patel,South,176.17,P087,Canberra East,$110109.00,28.2%
+1088,Ethan White,West,102.05,P088,Darwin East,$63109.00,23.2%
+1089,Lily Brown,East,148.82,P089,Hobart East,$92269.00,25.2%
+1090,Isabella Lee,North,74.11,P090,Melbourne East,$45069.00,21.2%
+1091,Alexander Tran,South,194.58,P091,Perth East,$122109.00,29.2%
+1092,William Kim,West,110.29,P092,Brisbane East,$68109.00,24.2%
+1093,Sophia Lee,East,167.45,P093,Adelaide West,$104769.00,27.2%
+1094,Julian Brown,North,95.99,P094,Gold Coast West,$59969.00,22.2%
+1095,Mia Tran,South,187.17,P095,Canberra West,$117109.00,29.2%
+1096,Emily White,West,112.05,P096,Darwin North,$67169.00,23.3%
+1097,Jackson Lee,East,149.82,P097,Hobart North,$90469.00,25.3%
+1098,Hannah Brown,North,79.11,P098,Melbourne North,$48469.00,21.3%
+1099,Zara Ali,South,203.58,P099,Perth North,$129109.00,30.2%
+1100,Caleb Chen,West,116.29,P100,Brisbane North,$71109.00,25.2%
